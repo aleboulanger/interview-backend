@@ -1,66 +1,82 @@
 [
   {
     "name": "iPhone 7 Plus",
-    "brand": 3
+    "brand": 3,
+    "originalPrice": 600
   },
   {
     "name": "Lorem ipsum dolor asit met  ipsum dolor asit met  ipsum dolor asit met  ipsum dolor asit met  ipsum dolor asit met  ipsum dolor asit met  ipsum dolor asit met  ipsum dolor asit met  ipsum dolor asit met 67",
-    "brand": 1
+    "brand": 1,
+    "originalPrice": 600
   },
   {
     "name": "Galaxy A3 2017",
-    "brand": 1
+    "brand": 1,
+    "originalPrice": 600
   },
   {
     "name": "iPhone 5s",
-    "brand": 3
+    "brand": 3,
+    "originalPrice": 480
   },
   {
     "name": "iPhone 6s",
-    "brand": 3
+    "brand": 3,
+    "originalPrice": 600
   },
   {
     "name": "iPhone 7",
-    "brand": 3
+    "brand": 3,
+    "originalPrice": 700
   },
   {
     "name": "Galaxy A3 2016",
-    "brand": 1
+    "brand": 1,
+    "originalPrice": 350
   },
   {
     "name": "iPhone 6s Plus",
-    "brand": 3
+    "brand": 3,
+    "originalPrice": 580
   },
   {
     "name": "iPhone SE",
-    "brand": 3
+    "brand": 3,
+    "originalPrice": 400
   },
   {
     "name": "Galaxy S7",
-    "brand": 1
+    "brand": 1,
+    "originalPrice": 600
   },
   {
     "name": "Galaxy S7 edge",
-    "brand": 1
+    "brand": 1,
+    "originalPrice": 650
   },
   {
     "name": "Galaxy A5 2017",
-    "brand": 1
+    "brand": 1,
+    "originalPrice": 500
   },
   {
     "name": "Galaxy S6 edge",
-    "brand": 1
+    "brand": 1,
+    "originalPrice": 500
   },
   {
     "name": "Galaxy J3",
-    "brand": 1
+    "brand": 1,
+    "originalPrice": 320
   },
   {
     "name": "Galaxy A5 2016",
-    "brand": 1
+    "brand": 1,
+    "originalPrice": 400
   },
   {
     "name": "Moto Z",
-    "brand": 2
+    "brand": 2,
+    "originalPrice": 600
   }
 ]
