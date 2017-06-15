@@ -1,0 +1,12 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.talend.interview.backend</groupId>
+  <artifactId>phone-backend-interview</artifactId>
+  <version>1</version>
+  <packaging>pom</packaging>
+  <name>phone-backend-interview</name>
+  <modules>
+     <module>phone-inventory</module>
+     <module>phone-market</module>
+  </modules>
+</project>
